@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "nombre": "zapatilla deportiva",
+    "origen": "Nigeria",
+    "imagenLink": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/dc9953df47e443a79524adc50177d71e_9366/Zapatillas_Hoops_3.0_Low_Classic_Vintage_Blanco_GY5427_01_standard.jpg",
+    "marca": "Nacional",
+    "numero": 42
+  },
+  {
+    "id": 2,
+    "nombre": "zapatilla deportiva Mujer",
+    "origen": "Tailandia",
+    "imagenLink": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/6b88847300e641688d93af4900b50774_9366/Zapatillas_Duramo_SL_2.0_Gris_HP2385_01_standard.jpg",
+    "marca": "Nacional",
+    "numero": 39
+  },
+  {
+    "id": 3,
+    "nombre": "Zapato Formal Hombre",
+    "origen": "Nigeria",
+    "imagenLink": "https://static.dafiti.cl/p/vizzano-7066-9387891-1-product.jpg",
+    "marca": "Nacional",
+    "numero": 37
+  },
+  {
+    "id": 4,
+    "nombre": "zapato Formal Mujer",
+    "origen": "Perú",
+    "imagenLink": "https://user-images.githubusercontent.com/22780253/103938792-90279200-5109-11eb-906a-50ac3b73e40d.jpg",
+    "marca": "Nacional",
+    "numero": 45
+  },
+  {
+    "id": 5,
+    "nombre": "zapatilla Fútbol",
+    "origen": "Chile",
+    "imagenLink": "https://nikeclprod.vteximg.com.br/arquivos/ids/648012-1000-1000/DJ5629_146_A_PREM.jpg?v=638091326122430000",
+    "marca": "Nacional",
+    "numero": 49
+  },
+  {
+    "id": 6,
+    "nombre": "Patines",
+    "origen": "Alemania",
+    "imagenLink": "https://www.pedalcity.cl/cdn/shop/products/PatinesFreeskateHDSkullCalipso_4_600x.png?v=1675860786",
+    "marca": "Exportada",
+    "numero": 37
+  }
+]
