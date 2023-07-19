@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">La Única</string>
+
+    <string name="price_format_with_dollar_sign">$ %1$s</string>
+
+    <string name="product_image_description">Imagen Producto</string>
+    <string name="delivery_true">Despacho</string>
+    <string name="delivery_false">Retiro</string>
+    <string name="contact_button_text">Contactar</string>
+    <string name="product_description_subtitle">Descripción:</string>
+    <string name="empty_list_error">Error al obtener los productos, intenta mas tarde :(</string>
+    <string name="detail_screen_title">Detalle</string>
+    <string name="origin">Origen:</string>
+    <string name="color_text">Color:</string>
+    <string name="size_text">Talla:</string>
+
+    <string name="origin_text">Fabricado en %1$s</string>
+
+</resources>
