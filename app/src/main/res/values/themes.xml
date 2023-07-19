@@ -18,5 +18,6 @@
         <!-- Customize color of navigation drawer icon and back arrow -->
         <item name="colorControlNormal">@color/primary_text</item>
         <item name="titleTextColor">@color/primary_text</item>
+        <item name="titleTextAppearance">@style/TextAppearance.Material3.TitleLarge</item>
     </style>
 </resources>

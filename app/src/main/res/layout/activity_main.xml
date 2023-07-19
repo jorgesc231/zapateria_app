@@ -24,8 +24,7 @@
             android:gravity="center"
             android:textAlignment="center"
             android:theme="@style/myToolbarTheme"
-            app:titleCentered="true"
-            app:title="My app name">
+            app:titleCentered="true">
 
         </com.google.android.material.appbar.MaterialToolbar>
 

@@ -242,6 +242,8 @@
                 android:text="@string/contact_button_text"
                 app:icon="@drawable/ic_email"
                 android:layout_gravity="center"
+                android:textColor="@color/text_icons"
+                app:iconTint="@color/text_icons"
                 />
 
         </LinearLayout>
